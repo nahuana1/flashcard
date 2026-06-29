@@ -26,7 +26,6 @@ h1 {
   color: #fff;
   font-size: 24px;
 }
-
 main {
   flex: 1;
 }
@@ -38,8 +37,8 @@ main {
 
 .cartao-imagem {
     width: 100%;
-    
-    .cartao-interno {
+
+ .cartao-interno {
   position: relative;
   transition: transform 0.8s;
   transform-style: preserve-3d;  
@@ -61,7 +60,6 @@ main {
 .cartao-verso {
   transform: rotateY(180deg);
 }
-
 section {
   display: flex;
   /*gap: 16px; */
